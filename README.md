@@ -29,11 +29,9 @@ Content:
 
 7.Logistic Regression
 
-https://www.kaggle.com/ericpierce/austinhousingprices
 
-This is a dataset for Austin, TX House Listings
 
-They are features and Images scraped in January 2021
+The dataset for Austin, TX House Listings contains features and Images scraped in January 2021.
 
 These home listings were scraped from Zillow.com using their official API, via apify.com. This data was scraped on January 31st, 2021.
 
