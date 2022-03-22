@@ -1,4 +1,6 @@
-# Austin-House-Price-Analysis
+# Real Estate Market Analytics of Austin, TX: Scraped Zillow website data using API, extracted dominant features using Regression to determine house prices and used K-Means clustering for grouping based on buyer income.
+
+
 Here is our analysis of the Austin Housing Dataset sourced from Zillow.com. We ran queries to build data visualizations and ML models for data analysis on DataBricks to understand the fluctuation in house prices based on the significant factors in the dataset.
 
 BUSINESS -
